@@ -1,0 +1,28 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.evabl2.notifiactions"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.evabl2.notifiactions"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.evabl2.notifiactions"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.evabl2.notifiactions"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.evabl2.notifiactions"
+    }
+  }
+}
